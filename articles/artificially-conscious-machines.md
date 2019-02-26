@@ -6,7 +6,7 @@ Question | Answer |
 --- | --- |
 Writer | Saurabh Yadav - MSc I year
 Editor | Swati Gautam
-Status |	Reviewed once. A second opinion required.
+Status |	Reviewed by Ashita Diwan
 Plagiarism |	None.  100% unique. [Report Link](./plag-reports/plag-artificially-conscious-machines-v1.pdf)
 Added | Sub-headings. Changed the structure.
 Content |	Consciousness - Artificial Consciousness - Comparison(what we have so far) - Assessing the future - Conclusion
@@ -15,26 +15,26 @@ Verdict | Good Candidate.
 
 
 ## What is consciousness? 
-Is it the same as having the ability to think? Or is it like having a soul? Are plants conscious? 
-These are some general questions which arise after reading the title. Defining consciousness in words is difficult.
+Is it same as having the ability to think, or is it like having a soul? Are plants conscious? 
+These are some general questions which arise after reading the title. Defining consciousness in words is cumbersome.
 
 According to Dr Harry H. Porter III, there are roughly three meanings of consciousness[1]:
-First, conscious means awake. A person who is asleep or in a coma is said to be unconscious.
+First, conscious means to be awake. A person who is asleep or in a coma is said to be unconscious.
 Second, the word conscious is often used to mean thinking the way an average human thinks. 
 Third, being conscious means being aware of your self and your own thoughts.
 
 ## Artificial consciousness
-So, what does it mean to have artificial consciousness?  How can we artificially create consciousness if we do not have a precise definition of it? 
+So, what does it mean to have artificial consciousness? How can we artificially create consciousness if we do not have a precise definition of it? 
 
-An artificially conscious machine could be a machine that possesses the ability to act as humanely as possible and be self-aware of its existence. This ability thus aptly sometimes referred to as machine consciousness or synthetic consciousness. 
+An artificially conscious machine could be a machine that possesses the ability to act as a human as and be self-aware of its existence. This ability can aptly be referred to as machine consciousness or synthetic consciousness. 
 
-To illustrate, say, a machine which can indulge in long conversations, listen to music, have hobbies, embroil in disputes, feel emotions, do mathematics etc.  These characteristics come naturally to a normal human but for a machine, these simple tasks are as difficult as the problem of intergalactic travel for humans.
+Hypothetically, let's think of a machine that can indulge in long conversations, listen to music, have hobbies, embroil in disputes, feel emotions, do mathematics etc.  These characteristics come naturally to a normal human but for a machine, these simple tasks are as difficult as the problem of intergalactic travel for humans.
 
 ## A comparison
-Today, there are more than 10 million machines(robots) on earth and this number will multiply further in future. All of them excel in their respective tasks. But, to put things into perspective, the number of machines that can truly understand a piece of text, like this very article is stigmatizing. From SHAKEY (so named because of its tendency to tremble during operation), ELIZA to  OpenWorm and Sophia, the world seems to be on a space rocket to achieve better AI machines. Researchers in the past decade have shown some promising results in the field of AI but still, machines are far from achieving **Human Level Artificial Intelligence (HMLI)**.
+Today, there are more than 10 million machines(robots) on earth and this number will multiply further in the future. All of these machines excel in their respective tasks. However, the number of machines that can truly understand a piece of text, like this very article is stigmatizing. From SHAKEY (so named because of its tendency to tremble during operation), ELIZA to  OpenWorm and Sophia, the world seems to be on a space rocket to achieve better AI machines. Researchers in the past decade have shown some promising results in the field of AI but still, machines are far from achieving **Human Level Artificial Intelligence (HMLI)**.
 
-Nick Bostrom in his book, Superintelligence: Paths, Dangers, Strategies[2] discusses thoroughly, the ways to reach HMLI, it's after effects and challenges. The idea of a truly conscious machine still remains far from reality. Some may argue that Neural Networks have promising results to present but do they even employ real intelligence or are just making simple statistical pattern observation? 
-Neural networks are said to emulate the networks of neurons present in our brains. Let us take it into account that someday we will have enough processing power to develop a system capable enough to actually run an artificial brain. Will it have thoughts?  Like the ones we have while eating delicious food or would it just be a fancy elaboration of a simple dot product of vectors matching the labelled output?
+Nick Bostrom in his book, Superintelligence: Paths, Dangers, Strategies[2] discusses about the ways to reach HMLI, it's after effects and challenges. The idea of a truly conscious machine still remains far from reality. Some may argue that Neural Networks have promising results to present but do they even employ real intelligence or are they just making simple statistical pattern observation? 
+Neural networks are said to emulate the networks of neurons present in our brains. Let us take it into account that someday we will have enough processing power to develop a system capable enough to actually run an artificial brain. Will it have thoughts like the ones we have while eating delicious food or, would it just be a fancy elaboration of a simple dot product of vectors matching the labelled output?
 
 ## When they are here
 Nils Nilsson has devoted a long time working on problems in search, planning, knowledge representation, and robotics. When asked about arrival dates for HLMI, he offered the following opinion[3]: 
